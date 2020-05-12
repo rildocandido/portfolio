@@ -1,3 +1,3 @@
-# Protfolio Rildo Candido
+# Portfolio Rildo Candido
 ## Desenvolvedor Web
 
